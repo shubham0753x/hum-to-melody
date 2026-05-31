@@ -1,0 +1,20 @@
+# generated files
+generated/
+intermediate/
+uploads/
+__pycache__/
+
+# large files
+*.pth
+*.pkl
+*.wav
+*.mid
+*.midi
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python
+nenv/
+*.pyc
+.python-version
