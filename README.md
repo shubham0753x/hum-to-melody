@@ -81,3 +81,8 @@ python train.py
 - Model trained on Irish/English folk melodies — generated output reflects that style
 - Generation takes ~30 seconds (FluidSynth rendering is real-time)
 - Input quality matters — hum clearly in a quiet environment for best transcription
+
+## Live Demo
+
+- Deployed the project on huggingface spaces using Docker.
+- Try it [here](https://huggingface.co/spaces/shubham0753x/hum-to-melody)
